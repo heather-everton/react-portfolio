@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component renders matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <section
+    class="my-5"
+  >
+    <h1
+      id="about"
+    >
+      Who am I?
+    </h1>
+    <div
+      class="flex-row"
+    >
+      <img
+        alt="cover"
+        src="cover-image.jpg"
+        style="width: 25%;"
+      />
+      <div
+        style="width: 70%; margin: 20px;"
+      >
+        <p>
+          I am a software deleoper who loves to code! As a utah native, I enjoy time in the mountains hiking, or paddle boarding and playing with my kids. I am a graduate of the U of U Full Stack Software Developer Boot Camp, and trained and experienced in the MERN Stack and more. I am a full-stack developer and would love to work with you on your project.
+        </p>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal component matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <div
+    class="modalBackdrop"
+  >
+    <div
+      class="modalContainer"
+    >
+      <h3
+        class="modalTitle"
+      >
+        Weather Dashboard 
+      </h3>
+      <a
+        href="https://heather-everton.github.io/Weather-Dashboard/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Check it Out!
+      </a>
+      <img
+        alt="current category"
+      />
+      <p>
+        Get a quiuck overview of today's weather and the upcoming forecast.
+      </p>
+      <a
+        href="https://github.com/heather-everton/Weather-Dashboard"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Github Repository
+      </a>
+      <br />
+      <button
+        type="button"
+      >
+        Close this modal
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
